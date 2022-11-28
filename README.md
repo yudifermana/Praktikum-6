@@ -122,7 +122,7 @@ Agar dipermudah buat flowchart terlebih dahulu
     elif (c.lower() == 'k'):
         print('\n')
         print(21*'=')
-        print("Nama\t: Rini Ariza\nKelas\t: TI.22.A3\nNIM\t: 312210337")
+        print("Nama\t: yudi fermana\nKelas\t: TI.22.A3\nNIM\t: 312210321")
         print(21*'=')
         break
 ```
